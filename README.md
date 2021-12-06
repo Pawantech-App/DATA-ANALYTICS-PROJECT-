@@ -1,2 +1,4 @@
-# DATA ANALYTICS PROJECT
-Data analytics project by team data pirates 
+# DATA ANALYTICS PROJECT 
+
+**DATA ANALYTICS PROJECT BY TEAM DATA PIRATES**
+
