@@ -12,5 +12,6 @@ I have created the folder for every thing related to our project.
 # Final IEEE Project Report and Literature survey
     This is the final report and we have also done the literature survey report.
 # Project Jupyter Notebooks
-    All Project related Implementation and Model building is done here so please check it out this.
-# The 
+    All Project related Code Implementation and Model building is done here so please check it out this.
+# The drive link for our entire project
+https://drive.google.com/drive/folders/1kb9kgaIb6HjDvNBAdP683aatBqJ9bX1M?usp=sharing
